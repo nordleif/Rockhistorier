@@ -4,9 +4,9 @@
 
 
 
-### Laura Nyro - Eli and the Thirteenth Confession
-#### Laura Nyro - New York Tendaberry
-##### Laura Nyro - More Than a New Discovery
+##### Laura Nyro - Eli and the Thirteenth Confession
+###### Laura Nyro - New York Tendaberry
+###### Laura Nyro - More Than a New Discovery
 ![Alt text](laura-nyro-eli-and-the-thirteenth-confession.jpg)
 ![Alt text](laura-nyro-new-work-tendaberry.jpg)
 ![Alt text](laura-nyro-more-than-a-new-discovery.webp)
