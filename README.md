@@ -21,9 +21,7 @@ Henrik Queitsch og Klaus Lynggaard dykker ned i, hvad de mener, er en række af 
 00:18:48 -> 00:18:53 :  Og det var hans første plade, hvor han ligesom selv får lov at bestemme det hele.
 
 ## The Rolling Stones - Between The Buttons
-
 ![Alt text](the-rolling-stones-between-the-buttons.jpg)
-
 ```
 20231215 The Rolling Stones Brian Jones-æraen
 01:40:38 -> 01:40:41 :  Og den har sådan sin egen stille charme, kan man sige
@@ -38,9 +36,7 @@ Henrik Queitsch og Klaus Lynggaard dykker ned i, hvad de mener, er en række af 
 ```
 
 ## David Crosby – If I Could Only Remember My Name
-
 ![Alt text](david-crosby–If-i-could-only-remember-my-name.jpg)
-
 ```
 20240209 En krans for de døde i 2023
 01:01:06 -> 01:01:07 :  Og det er altså også en af de plader,
@@ -57,9 +53,7 @@ Henrik Queitsch og Klaus Lynggaard dykker ned i, hvad de mener, er en række af 
 ```
 
 ## Nancy Wilson/Cannonball Adderley - Nancy Wilson/Cannonball Adderley
-
 ![Alt text](nancy-wilson-cannonball-adderley-nancy-wilson-cannonball-adderley.jpg)
-
 ```
 20240628 Gæstebud med Anna Roemer Riffs for alle pengene
 00:57:49 -> 00:57:53 :  Hvis man har LP'en, er der jo på side 1, er det kun hende og ham.
