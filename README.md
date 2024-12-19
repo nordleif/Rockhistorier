@@ -19,6 +19,11 @@ Henrik Queitsch og Klaus Lynggaard dykker ned i, hvad de mener, er en række af 
 00:18:47 -> 00:18:48 :  Sådan er det bare.
 00:18:48 -> 00:18:53 :  Og det var hans første plade, hvor han ligesom selv får lov at bestemme det hele.
 
+## The Rolling Stones - Between The Buttons
+
+![Alt text](the-rolling-stones-between-the-buttons.jpg)
+
+```
 20231215 The Rolling Stones Brian Jones-æraen.mp3
 01:40:38 -> 01:40:41 :  Og den har sådan sin egen stille charme, kan man sige
 01:40:41 -> 01:40:44 :  Ja, og jeg synes jo også, det er en af de blæder, der bør stå i et hvert hjem
@@ -29,6 +34,7 @@ Henrik Queitsch og Klaus Lynggaard dykker ned i, hvad de mener, er en række af 
 01:40:52 -> 01:40:53 :  Den sidste sang på side 2
 01:40:53 -> 01:40:55 :  Something happened to me yesterday
 01:40:55 -> 01:40:57 :  Hvor Kies han tegnede sin første
+```
 
 ## David Crosby – If I Could Only Remember My Name
 
