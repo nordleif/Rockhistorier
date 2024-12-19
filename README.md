@@ -1,13 +1,7 @@
 ## Rockhistorier
 ### Et hvert hjem med respekt for sig selv
 
-Rockhistorier er en podcast af Klaus Lynggaard og Henrik Queitsch. I første afsnit siger de, at rockhistorien ikke bliver fortalt kronologisk, den bliver fortalt fragmentarisk. Det samme gælder denne liste. 
-
-Vores musikkkuratorer har flere gange fortalt hvordan et hjem med respekt for sig selv skal se ud. 
-
-AI har lyttet med, og nedenunder ses listen fra D. 13. april 2017 til d. 06 december 2024.
-
-Hvordan ser dit hjem ud?
+Fra D. 13. april 2017 til d. 06 december 2024.
 
 #### Marvin Gaye – What's Going On 
 ![Alt text]()
