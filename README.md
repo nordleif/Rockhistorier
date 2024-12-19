@@ -45,7 +45,7 @@ Fra D. 13. april 2017 til d. 06 december 2024.
 - Bob Dylan – Side Tracks
 - One Album Wonders_ Ensomme mestervær
 - Bob Dylan – More Blood, More Tracks (The Bootleg Series Vol. 14)
-- ---
+- Baby Huey – The Baby Huey Story - The Living Legend 
 - Japan – Quiet Life 
 
 #### Marvin Gaye – What's Going On 
@@ -261,11 +261,10 @@ Henrik har ret.
 [01:08:23] Både af officielle udgivelser, og at Det var på en greatest hits og uofficielt har nogle live versioner af nogle ting man kendte i forvejen. Det var Sådan en og de uofficielle ting, han nu om stunder samlet på et album der hedder sejt træk som er svine godt. Det er rigtig godt. Det er jo alle de ting som kom ud, men som er kommet ud efterfølgende med ikke at få de rigtige par Dylan plade så det Det er en ja, Det er et super godt. Det er godt rigtig godt triple album, så selvfølgelig også bør stå i ethvert hjem jamen altså altså der skal altså en meter bob Det har alle mennesker for, men her kommer banen som i øvrigt også et nummer.
 ```
 
-#### (TODO)
+#### Baby Huey – The Baby Huey Story - The Living Legend 
 ![Alt text]()
 ```
 One Album Wonders_ Ensomme mestervær
-2021 05 28 One Album Wonders Ensomme mesterværker der lyser nattehimlen op
 [00:33:14] Ja, Det er det bør stå i ethvert hjem med respekt for sig selv, så Vi skal høre den person du udgivende ved 
 ```
 
