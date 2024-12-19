@@ -3,6 +3,51 @@
 
 Fra D. 13. april 2017 til d. 06 december 2024.
 
+- Marvin Gaye – What's Going On 
+- Sparks - Kimono My House 
+- Sparks - A Woofer In Tweeter's Clothing
+- Sparks - Sparks
+- John Cale – Helen Of Troy 
+- John Cale – Slow Dazzle 
+- John Cale – Fear 
+- Bob Marley & The Wailers – Exodus
+- Pretty Things – S.F. Sorrow 
+- Elvis Presley – From Elvis In Memphis 
+- Elvis – Back In Memphis 
+- Frank Sinatra – Frank Sinatra Sings For Only The Lonely
+- Nancy Wilson/Cannonball Adderley - Nancy Wilson/Cannonball Adderley
+- The Neville Brothers – Yellow Moon
+- Tony Joe White – Black And White 
+- This Mortal Coil – It'll End In Tears 
+- This Mortal Coil – Blood 
+- This Mortal Coil – Filigree & Shadow 
+- Serge Gainsbourg - Histoire de Melody Nelson
+- Jan Johansson – Jazz På Svenska 
+- Lee Hazlewood – Forty 
+- ABBA – The Visitors
+- The Kinks – Face To Face 
+- The Louvin Brothers – Satan Is Real 
+- Gram Parsons – GP 
+- Dissing – Dissing
+- Nick Drake - Pink Moon
+- Nick Drake - Bryter Layter
+- Nick Drake - Five Leaves Left
+- Thin Lizzy – Black Rose (A Rock Legend) 
+- Propaganda – A Secret Wish
+- Waylon Jennings – Singer Of Sad Songs 
+- Waylon Jennings • Willie Nelson • Johnny Cash • Kris Kristofferson – Highwayman 
+- Jimi Hendrix - Electric Ladyland
+- Jimi Hendrix - Axis: Bold as Love
+- Jimi Hendrix - Are You Experienced
+- The Band – The Band 
+- Bob Dylan – Live 1966 (The "Royal Albert Hall" Concert) 
+- Bob Dylan – More Blood, More Tracks (The Bootleg Series Vol. 14)
+- Bob Dylan – Side Tracks
+- One Album Wonders_ Ensomme mestervær
+- Bob Dylan – More Blood, More Tracks (The Bootleg Series Vol. 14)
+- ---
+- Japan – Quiet Life 
+
 #### Marvin Gaye – What's Going On 
 ![Alt text](marvin-gaye-what's-going-on.jpg)
 ```
@@ -109,7 +154,6 @@ Henrik har ret.
 ```
 
 #### Lee Hazlewood – Forty 
-#### (TODO)
 ![Alt text]()
 ```
 2019 03 06 Gæstebud med Jens Unmack Varme anbefalinger fra den dengang ene af to punks i Viborg.
@@ -205,7 +249,6 @@ Henrik har ret.
 [00:30:25] Koncert stunder hjemme så kan det kun gå for langsomt ja, han skaffer. Det er Sådan den skal stå i ethvert hjem med eller uden respekt for sig selv. Sådan er det bare og og Sådan er det altså Det er én af Det er nok en af de 5 bedste lege plader nogensinde og uk Jeg har talt så ser kommer til Danmark fra 17 maj 1966 er den optaget?
 ```
 
-#### Bob Dylan – More Blood, More Tracks (The Bootleg Series Vol. 14)
 ![Alt text]()
 ```
 2021 05 14 Bob Dylans piratplader Intet er renere end Dylan og en 2 spors båndoptager på et koldt hotelværelse
@@ -218,9 +261,10 @@ Henrik har ret.
 [01:08:23] Både af officielle udgivelser, og at Det var på en greatest hits og uofficielt har nogle live versioner af nogle ting man kendte i forvejen. Det var Sådan en og de uofficielle ting, han nu om stunder samlet på et album der hedder sejt træk som er svine godt. Det er rigtig godt. Det er jo alle de ting som kom ud, men som er kommet ud efterfølgende med ikke at få de rigtige par Dylan plade så det Det er en ja, Det er et super godt. Det er godt rigtig godt triple album, så selvfølgelig også bør stå i ethvert hjem jamen altså altså der skal altså en meter bob Det har alle mennesker for, men her kommer banen som i øvrigt også et nummer.
 ```
 
-#### One Album Wonders_ Ensomme mestervær
+#### (TODO)
 ![Alt text]()
 ```
+One Album Wonders_ Ensomme mestervær
 2021 05 28 One Album Wonders Ensomme mesterværker der lyser nattehimlen op
 [00:33:14] Ja, Det er det bør stå i ethvert hjem med respekt for sig selv, så Vi skal høre den person du udgivende ved 
 ```
