@@ -1,3 +1,4 @@
+# Rockhistorier
 # Et hvert hjem med respekt for sig selv
 
 
@@ -24,7 +25,7 @@ Henrik Queitsch og Klaus Lynggaard dykker ned i, hvad de mener, er en række af 
 ![Alt text](the-rolling-stones-between-the-buttons.jpg)
 
 ```
-20231215 The Rolling Stones Brian Jones-æraen.mp3
+20231215 The Rolling Stones Brian Jones-æraen
 01:40:38 -> 01:40:41 :  Og den har sådan sin egen stille charme, kan man sige
 01:40:41 -> 01:40:44 :  Ja, og jeg synes jo også, det er en af de blæder, der bør stå i et hvert hjem
 01:40:44 -> 01:40:45 :  Med respekt for sig selv
