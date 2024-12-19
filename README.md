@@ -4,12 +4,17 @@
 
 
 
-
-
-*** 20230428 Laura Nyro Få kender hende, men englen i mørket fortjener at komme frem i lyset
+## Laura Nyro - Eli and the Thirteenth Confession
+## Laura Nyro - New York Tendaberry
+## Laura Nyro - More Than a New Discovery
+![Alt text](laura-nyro-eli-and-the-thirteenth-confession.jpg)
+![Alt text](laura-nyro-new-work-tendaberry.jpg)
+![Alt text](laura-nyro-more-than-a-new-discovery.webp)
+```
+20230428 Laura Nyro Få kender hende, men englen i mørket fortjener at komme frem i lyset
 Henrik Queitsch og Klaus Lynggaard dykker ned i, hvad de mener, er en række af mesterværker med albums som ’Eli and the Thirteenth Confession’, 
 ’New York Tendaberry’ og ’More Than a New Discovery’ - som bør stå i et hvert hjem med respekt for sig selv.
-
+```
 
 ## Marvin Gaye - What's Going On
 ![Alt text](marvin-gaye-what's-going-on.jpg)
