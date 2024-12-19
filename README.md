@@ -32,7 +32,7 @@ Henrik Queitsch og Klaus Lynggaard dykker ned i, hvad de mener, er en række af 
 
 ## David Crosby – If I Could Only Remember My Name
 
-![Alt text](david-crosby–If-i-could-only-remember-my-name.jpg)
+!(david-crosby–If-i-could-only-remember-my-name.jpg)
 
 ```
 20240209 En krans for de døde i 2023
