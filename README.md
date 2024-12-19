@@ -81,11 +81,84 @@ bliver ikke fortalt kronologisk, den bliver fortalt fragmentarisk.
 [01:46:09] I februar 69. Jamen den var jo lige så fed og udløste måske ikke lige så mange hitsingler man lige så mange gode numre. Det var dér som havnede på de hjælpere, der hedder elvis in memphis og baking memphis, og den bør man straks opsøge pladebutikker anskaffe sig, fordi i legede sig. De skal stå i et hvert hjem med respekt for sig selv, og så skal man købe tilhørende singler også fordi Det var det, der var ret utrolig. Devar at mange af de store single hits for den periode, de havnede ikke på albummet hernede, så meget overskudsmaterialer i denne periode, at han kunne tillade sig den luksus, men vi springer lynhurtigt videre til nummeret strategier end mig.
 ```
 
-#### ??? ??? ???
+#### Serge Gainsbourg - Histoire de Melody Nelson (TODO)
 ![Alt text]()
 ```
 20190206 Françoise Hardy En emblematisk figur indenfor yé-yé-bølgen.
 [01:43:32] Ja som jo også i Sådan der bør stå præcist o et i ethvert hjem med respekt for sig selv, og Jeg kan da allerede godt nu love at.
+```
+
+#### Frank Sinatra – Frank Sinatra Sings For Only The Lonely
+![Alt text]()
+```
+20181218 Frank Sinatra (1954 - 1962) Der er sangere - og så er der Sinatra
+[01:23:32] Uomgængelige mesterværk, men Jeg synes, at du plejer at sige heller ikke den skal stå i ethvert hjem, hvis man skal selv. Og Det var sgu så faktisk også have været godt tænkes der både skulle have arrangeret og og og dirigerede orkestret i denne her sammenhæng, men af årsager jeg ligesom har glemt, så blev det sgu i retten og det tror jeg, vi kan være rigtig glade for, fordi Det er på en måde måske klimakset i samarbejdet. De tog også fat i nelson riddle har jo selv været en stor personlig tragedie igennem de indspillet, både hans.
+```
+
+#### Lee Hazlewood – Forty 
+#### (TODO)
+![Alt text]()
+```
+20190306 Gæstebud med Jens Unmack Varme anbefalinger fra den dengang ene af to punks i Viborg.
+[01:30:57] Der er flere af dem, der hører under Vores berømte kategori, bør stå i ethvert ordentligt hjem. Ja, og så bliver jeg så lige pludselig halvfjerdserne, så bliver de lige præcis nå de havde spillet, så lavede han nogle skrækkelige, men du har valgt på et af mesterværkerne bare i baby og året han 69, så Jeg tror bare vi kastede os ud i det, fordi at Vi har stadigvæk noget oppe i ærmet kommer her.
+```
+
+#### John Cale – Helen Of Troy 
+#### John Cale – Slow Dazzle 
+#### John Cale – Fear 
+![Alt text]()
+```
+20170830 Geniale coverversioner - 2. del
+[00:25:46] Regulere rock han har lavet ballade og han har lavet soundtracks og nærmest klassisk musik og så videre. Og men men én af hans gyldne perioder, Det er det man kalder oven på på selskabet aylan. Dér midt i halvfjerdserne. Man har udgivet 3 plader helen of troy og slog dazzle og fer som som som er 3 plader der bør stå i ethvert hjem, hvis man spørger mig, men på den ene med den midterste af dem slog tassel.
+```
+
+#### Sparks - Kimono My House 
+#### Sparks - A Woofer In Tweeter's Clothing
+#### Sparks - Sparks
+![Alt text]()
+```
+20170524 Glamrock Et opgør med autenticitetsbegrebet i rocken
+[02:05:21] Ja lad os bare kalde det det. Det er hysteri helt ud helt ud. Ja fordi at vi smidt de er til falset sang mine damer og herrer så er de kommet det helt rigtige sted hen og Det er jo et band som de lavede så dengang en bliver første 3 lr som sparkes er alle sammen kanoniserede klassikere og bør stå i ethvert hjem med respekt for sig selv, så dalede det lidt en periode, men de har faktisk de seneste 10 år så lavet en stribe glimrende plader igen at de lavede faktisk sidste år en plade sammen med franz ferdinand.
+```
+
+#### 
+![Alt text]()
+```
+```
+
+#### 
+![Alt text]()
+```
+```
+
+#### 
+![Alt text]()
+```
+```
+
+#### 
+![Alt text]()
+```
+```
+
+#### 
+![Alt text]()
+```
+```
+
+#### 
+![Alt text]()
+```
+```
+
+#### 
+![Alt text]()
+```
+```
+
+#### 
+![Alt text]()
+```
 ```
 
 #### 
