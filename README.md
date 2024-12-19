@@ -1,7 +1,7 @@
 # Et hvert hjem med respekt for sig selv
 
 
-![Alt text](david-crosby–If-i-could-only-remember-my-name.jpg)
+
 
 
 
@@ -31,6 +31,9 @@ Henrik Queitsch og Klaus Lynggaard dykker ned i, hvad de mener, er en række af 
 01:40:55 -> 01:40:57 :  Hvor Kies han tegnede sin første
 
 ## David Crosby – If I Could Only Remember My Name
+
+![Alt text](david-crosby–If-i-could-only-remember-my-name.jpg)
+
 20240209 En krans for de døde i 2023.mp3
 01:01:06 -> 01:01:07 :  Og det er altså også en af de plader,
 01:01:07 -> 01:01:09 :  som for at nu bruge en fast frase her,
