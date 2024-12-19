@@ -1,4 +1,4 @@
-# et-hvert-hjem-med-respekt-for-sig-selv
+# Et hvert hjem med respekt for sig selv
 
 *** 20230428 Laura Nyro Få kender hende, men englen i mørket fortjener at komme frem i lyset
 Henrik Queitsch og Klaus Lynggaard dykker ned i, hvad de mener, er en række af mesterværker med albums som ’Eli and the Thirteenth Confession’, 
@@ -39,7 +39,9 @@ Henrik Queitsch og Klaus Lynggaard dykker ned i, hvad de mener, er en række af 
 01:01:18 -> 01:01:20 :  The Malpas High at About Three,
 01:01:20 -> 01:01:21 :  hvad det så skal betyde.
 https://open.spotify.com/album/4v9ZAufvuQKvTLcy21y6BM?si=ItKsIa4SQTSsCVr5e7q90g
+
 https://www.discogs.com/master/84859-David-Crosby-If-I-Could-Only-Remember-My-Name
+
 https://i.discogs.com/72BLJ92mAceJYzBk_41YqoI3hlR6p0dR8eWUgki43AQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjE1/NDQtMTI3MTE5MDc1/OS5qcGVn.jpeg
 
 ## Nancy Wilson/Cannonball Adderley - Nancy Wilson/Cannonball Adderley
@@ -51,6 +53,9 @@ https://i.discogs.com/72BLJ92mAceJYzBk_41YqoI3hlR6p0dR8eWUgki43AQ/rs:fit/g:sm/q:
 00:57:58 -> 00:58:01 :  Og det er den plade, der bare hedder Nancy Wilson og Kanderen Borg Adderley.
 00:58:01 -> 00:58:04 :  Og det er en af de plader, som bør stå i et hvert hjem med respekt for sig selv.
 00:58:04 -> 00:58:05 :  Det er så ikke bare ret i.
+
 https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ?si=MPGggGvMSHGDwoQowRtEXw
+
 https://www.discogs.com/master/118121-Nancy-Wilson-Cannonball-Adderley-Nancy-Wilson-Cannonball-Adderley
+
 https://i.discogs.com/_gVf68ZzFKYqV3PNmLYvjQmRuGm4TZnMk5WTUEFf65M/rs:fit/g:sm/q:90/h:471/w:469/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MTky/ODQtMTQyMTA5MDgw/MS0xNzQ0LmpwZWc.jpeg
