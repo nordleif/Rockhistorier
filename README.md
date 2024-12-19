@@ -5,8 +5,11 @@
 
 
 Laura Nyro - Eli and the Thirteenth Confession
+
 Laura Nyro - New York Tendaberry
+
 Laura Nyro - More Than a New Discovery
+
 ![Alt text](laura-nyro-eli-and-the-thirteenth-confession.jpg)
 ![Alt text](laura-nyro-new-work-tendaberry.jpg)
 ![Alt text](laura-nyro-more-than-a-new-discovery.webp)
@@ -18,6 +21,7 @@ Henrik Queitsch og Klaus Lynggaard dykker ned i, hvad de mener, er en række af 
 ```
 
 Marvin Gaye - What's Going On
+
 ![Alt text](marvin-gaye-what's-going-on.jpg)
 ```
 20231027 Sange om klimakrisen
@@ -32,6 +36,7 @@ Marvin Gaye - What's Going On
 ```
 
 The Rolling Stones - Between The Buttons
+
 ![Alt text](the-rolling-stones-between-the-buttons.jpg)
 ```
 20231215 The Rolling Stones Brian Jones-æraen
@@ -47,6 +52,7 @@ The Rolling Stones - Between The Buttons
 ```
 
 David Crosby – If I Could Only Remember My Name
+
 ![Alt text](david-crosby–If-i-could-only-remember-my-name.jpg)
 ```
 20240209 En krans for de døde i 2023
@@ -64,6 +70,7 @@ David Crosby – If I Could Only Remember My Name
 ```
 
 Nancy Wilson/Cannonball Adderley - Nancy Wilson/Cannonball Adderley
+
 ![Alt text](nancy-wilson-cannonball-adderley-nancy-wilson-cannonball-adderley.jpg)
 ```
 20240628 Gæstebud med Anna Roemer Riffs for alle pengene
