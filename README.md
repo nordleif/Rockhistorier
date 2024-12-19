@@ -66,14 +66,22 @@ https://i.discogs.com/72BLJ92mAceJYzBk_41YqoI3hlR6p0dR8eWUgki43AQ/rs:fit/g:sm/q:
 
 ## Nancy Wilson/Cannonball Adderley - Nancy Wilson/Cannonball Adderley
 
+![Alt text](nancy-wilson-cannonball-adderley-nancy-wilson-cannonball-adderley.jpg)
+
 20240628 Gæstebud med Anna Roemer Riffs for alle pengene
 
 00:57:49 -> 00:57:53 :  Hvis man har LP'en, er der jo på side 1, er det kun hende og ham.
+
 00:57:53 -> 00:57:55 :  På side 2, er det kun ham og bandet.
+
 00:57:55 -> 00:57:57 :  Men godt lille orkester.
+
 00:57:57 -> 00:57:58 :  Det er det.
+
 00:57:58 -> 00:58:01 :  Og det er den plade, der bare hedder Nancy Wilson og Kanderen Borg Adderley.
+
 00:58:01 -> 00:58:04 :  Og det er en af de plader, som bør stå i et hvert hjem med respekt for sig selv.
+
 00:58:04 -> 00:58:05 :  Det er så ikke bare ret i.
 
 https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ?si=MPGggGvMSHGDwoQowRtEXw
