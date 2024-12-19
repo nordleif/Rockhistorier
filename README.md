@@ -10,7 +10,11 @@
 Henrik Queitsch og Klaus Lynggaard dykker ned i, hvad de mener, er en række af mesterværker med albums som ’Eli and the Thirteenth Confession’, 
 ’New York Tendaberry’ og ’More Than a New Discovery’ - som bør stå i et hvert hjem med respekt for sig selv.
 
-20231027 Sange om klimakrisen.mp3
+
+## Marvin Gaye - What's Going On
+![Alt text](marvin-gaye-what's-going-on.jpg)
+```
+20231027 Sange om klimakrisen
 00:18:11 -> 00:18:32 :  Yeah, nu skal vi så til en af soulmusikkens store, endnu en som også døde alt for tidligt,
 00:18:32 -> 00:18:34 :  fordi hans far skød om.
 00:18:34 -> 00:18:37 :  Ja, det er selvfølgelig Marvin Gaye, vi snakker om.
@@ -19,6 +23,7 @@ Henrik Queitsch og Klaus Lynggaard dykker ned i, hvad de mener, er en række af 
 00:18:46 -> 00:18:47 :  Ja, det er der ikke.
 00:18:47 -> 00:18:48 :  Sådan er det bare.
 00:18:48 -> 00:18:53 :  Og det var hans første plade, hvor han ligesom selv får lov at bestemme det hele.
+```
 
 ## The Rolling Stones - Between The Buttons
 ![Alt text](the-rolling-stones-between-the-buttons.jpg)
