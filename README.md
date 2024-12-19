@@ -14,6 +14,7 @@
 20230428 Laura Nyro Få kender hende, men englen i mørket fortjener at komme frem i lyset
 Henrik Queitsch og Klaus Lynggaard dykker ned i, hvad de mener, er en række af mesterværker med albums som ’Eli and the Thirteenth Confession’, 
 ’New York Tendaberry’ og ’More Than a New Discovery’ - som bør stå i et hvert hjem med respekt for sig selv.
+- fra podcast beskrivelsen
 ```
 
 ## Marvin Gaye - What's Going On
