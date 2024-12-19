@@ -1,5 +1,10 @@
 # Et hvert hjem med respekt for sig selv
 
+
+![Alt text](david-crosby–If-i-could-only-remember-my-name.jpg)
+
+
+
 *** 20230428 Laura Nyro Få kender hende, men englen i mørket fortjener at komme frem i lyset
 Henrik Queitsch og Klaus Lynggaard dykker ned i, hvad de mener, er en række af mesterværker med albums som ’Eli and the Thirteenth Confession’, 
 ’New York Tendaberry’ og ’More Than a New Discovery’ - som bør stå i et hvert hjem med respekt for sig selv.
@@ -38,6 +43,7 @@ Henrik Queitsch og Klaus Lynggaard dykker ned i, hvad de mener, er en række af 
 01:01:18 -> 01:01:18 :  der hedder
 01:01:18 -> 01:01:20 :  The Malpas High at About Three,
 01:01:20 -> 01:01:21 :  hvad det så skal betyde.
+
 https://open.spotify.com/album/4v9ZAufvuQKvTLcy21y6BM?si=ItKsIa4SQTSsCVr5e7q90g
 
 https://www.discogs.com/master/84859-David-Crosby-If-I-Could-Only-Remember-My-Name
