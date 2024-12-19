@@ -1,9 +1,11 @@
 ## Rockhistorier
 ### Et hvert hjem med respekt for sig selv
 
+Klaus Lynggaard og Henrik Queitsch
 
+D. 13. april 2017 
 
-
+bliver ikke fortalt kronologisk, den bliver fortalt fragmentarisk.
 
 ##### Laura Nyro - Eli and the Thirteenth Confession
 ##### Laura Nyro - New York Tendaberry
