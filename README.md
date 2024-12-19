@@ -34,9 +34,8 @@ Henrik Queitsch og Klaus Lynggaard dykker ned i, hvad de mener, er en række af 
 
 ![Alt text](david-crosby–If-i-could-only-remember-my-name.jpg)
 
-20240209 En krans for de døde i 2023.mp3
-
 ```
+20240209 En krans for de døde i 2023
 01:01:06 -> 01:01:07 :  Og det er altså også en af de plader,
 01:01:07 -> 01:01:09 :  som for at nu bruge en fast frase her,
 01:01:09 -> 01:01:12 :  der bør stå et hvert hjem med respekt for sig selv.
@@ -60,9 +59,8 @@ https://i.discogs.com/72BLJ92mAceJYzBk_41YqoI3hlR6p0dR8eWUgki43AQ/rs:fit/g:sm/q:
 
 ![Alt text](nancy-wilson-cannonball-adderley-nancy-wilson-cannonball-adderley.jpg)
 
-20240628 Gæstebud med Anna Roemer Riffs for alle pengene
-
 ```
+20240628 Gæstebud med Anna Roemer Riffs for alle pengene
 00:57:49 -> 00:57:53 :  Hvis man har LP'en, er der jo på side 1, er det kun hende og ham.
 00:57:53 -> 00:57:55 :  På side 2, er det kun ham og bandet.
 00:57:55 -> 00:57:57 :  Men godt lille orkester.
