@@ -36,27 +36,19 @@ Henrik Queitsch og Klaus Lynggaard dykker ned i, hvad de mener, er en række af 
 
 20240209 En krans for de døde i 2023.mp3
 
+```
 01:01:06 -> 01:01:07 :  Og det er altså også en af de plader,
-
 01:01:07 -> 01:01:09 :  som for at nu bruge en fast frase her,
-
 01:01:09 -> 01:01:12 :  der bør stå et hvert hjem med respekt for sig selv.
-
 01:01:12 -> 01:01:12 :  Det bør den, ja.
-
 01:01:12 -> 01:01:13 :  Det er en god plade.
-
 01:01:13 -> 01:01:14 :  Det er en virkelig god plade.
-
 01:01:15 -> 01:01:16 :  Og vi har valgt et nummer derfra,
-
 01:01:16 -> 01:01:18 :  som er meget typisk for pladen,
-
 01:01:18 -> 01:01:18 :  der hedder
-
 01:01:18 -> 01:01:20 :  The Malpas High at About Three,
-
 01:01:20 -> 01:01:21 :  hvad det så skal betyde.
+```
 
 https://open.spotify.com/album/4v9ZAufvuQKvTLcy21y6BM?si=ItKsIa4SQTSsCVr5e7q90g
 
@@ -70,19 +62,15 @@ https://i.discogs.com/72BLJ92mAceJYzBk_41YqoI3hlR6p0dR8eWUgki43AQ/rs:fit/g:sm/q:
 
 20240628 Gæstebud med Anna Roemer Riffs for alle pengene
 
+```
 00:57:49 -> 00:57:53 :  Hvis man har LP'en, er der jo på side 1, er det kun hende og ham.
-
 00:57:53 -> 00:57:55 :  På side 2, er det kun ham og bandet.
-
 00:57:55 -> 00:57:57 :  Men godt lille orkester.
-
 00:57:57 -> 00:57:58 :  Det er det.
-
 00:57:58 -> 00:58:01 :  Og det er den plade, der bare hedder Nancy Wilson og Kanderen Borg Adderley.
-
 00:58:01 -> 00:58:04 :  Og det er en af de plader, som bør stå i et hvert hjem med respekt for sig selv.
-
 00:58:04 -> 00:58:05 :  Det er så ikke bare ret i.
+```
 
 https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ?si=MPGggGvMSHGDwoQowRtEXw
 
