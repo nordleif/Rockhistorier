@@ -77,14 +77,14 @@ Fra d. 13. april 2017 til d. 06 december 2024.
 ```
 
 #### Bob Marley & The Wailers - Exodus
-![Alt text]()
+![Alt text](bob-marley-&-the-wailers-exodus.jpg)
 ```
 2018 04 20 Den britiske ska-bølge (1979 - 1982) En musikalsk forsoning midt i det kriseramte England
 [00:07:01] Fortalte sin gode ven bogmarked om det, der foregik i England nu, og det gjorde så borgelig. 79 lavede nummeret, der hedder punky reggae party. Vi har bedt siden på jamming inde i øvrigt endnu en fantastisk tolder, som der bør stå i ethvert hjem, og det handler selvfølgelig om at at der var altså der var noget fælles front.
 ```
 
 #### Pretty Things - S.F. Sorrow 
-![Alt text]()
+![Alt text](pretty-things-s.f.-sorrow .jpg)
 ```
 2018 05 02 The Pretty Things Tidens mest møgbeskidte og primitive R&B
 [01:06:49] Og nu er vi nået frem til, kan vi sige, appelsinen i turbanen.
@@ -99,7 +99,8 @@ Henrik har ret.
 
 #### Elvis Presley - From Elvis In Memphis 
 #### Elvis - Back In Memphis 
-![Alt text]()
+![Alt text](elvis-presley-from-elvis-in-memphis.jpg)
+![Alt text](elvis-back-in-memphis.jpg)
 ```
 2018 05 30 Elvis Presley - 2. del (1960'erne) En stribe klassikere midt i en trædemølle af lortefil
 [01:46:09] I februar 69. Jamen den var jo lige så fed og udløste måske ikke lige så mange hitsingler man lige så mange gode numre. Det var dér som havnede på de hjælpere, der hedder elvis in memphis og baking memphis, og den bør man straks opsøge pladebutikker anskaffe sig, fordi i legede sig. De skal stå i et hvert hjem med respekt for sig selv, og så skal man købe tilhørende singler også fordi Det var det, der var ret utrolig. Devar at mange af de store single hits for den periode, de havnede ikke på albummet hernede, så meget overskudsmaterialer i denne periode, at han kunne tillade sig den luksus, men vi springer lynhurtigt videre til nummeret strategier end mig.
