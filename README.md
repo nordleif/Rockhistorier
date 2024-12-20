@@ -213,7 +213,7 @@ Henrik har ret.
 ```
 
 #### Thin Lizzy - Black Rose (A Rock Legend) 
-![Alt text](thin-lizzyblack-rose.jpg)
+![Alt text](thin-lizzy-black-rose-a-rock-legend.jpg)
 ```
 2020 05 23 Sange om og fra Irland Fra Van Morrison til Róisín Murphy
 [01:33:11] Går til de næststørste altså for mig er Det er det største, fordi jeg elsker jo sine lizzy gør jeg også og vild med fedt eller det synes han er en noget undervurderet sangskriver han solo Bladet er også ***** god ***** gode, men altså det vil sige, Der er i hvert fald 1, 4 5 np som bør stå i ethvert.
