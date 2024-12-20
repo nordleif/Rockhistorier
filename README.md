@@ -107,7 +107,7 @@ Henrik har ret.
 ```
 
 #### Frank Sinatra - Frank Sinatra Sings For Only The Lonely
-![Alt text]()
+![Alt text](frank-sinatra-frank-sinatra-sings-for-only-the-lonely.jpg)
 ```
 2018 12 18 Frank Sinatra (1954 - 1962) Der er sangere - og så er der Sinatra
 [01:23:32] Uomgængelige mesterværk, men Jeg synes, at du plejer at sige heller ikke den skal stå i ethvert hjem, hvis man skal selv. Og Det var sgu så faktisk også have været godt tænkes der både skulle have arrangeret og og og dirigerede orkestret i denne her sammenhæng, men af årsager jeg ligesom har glemt, så blev det sgu i retten og det tror jeg, vi kan være rigtig glade for, fordi Det er på en måde måske klimakset i samarbejdet. De tog også fat i nelson riddle har jo selv været en stor personlig tragedie igennem de indspillet, både hans.
