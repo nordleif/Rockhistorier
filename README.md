@@ -146,56 +146,56 @@ Henrik har ret.
 ```
 
 #### Serge Gainsbourg - Histoire de Melody Nelson (TODO)
-![Alt text]()
+![Alt text](serge-gainsbourg-histoire-de-melody-nelson.jpg)
 ```
 2019 02 06 Françoise Hardy En emblematisk figur indenfor yé-yé-bølgen.
 [01:43:32] Ja som jo også i Sådan der bør stå præcist o et i ethvert hjem med respekt for sig selv, og Jeg kan da allerede godt nu love at.
 ```
 
 #### Jan Johansson - Jazz På Svenska 
-![Alt text]()
+![Alt text](jan-johansson-jazz-på-svenska.jpg)
 ```
 2019 02 12 Sange fra Sverige På svensk lyder selv banaliteter godt
 [01:49:49] Endnu en af de plader, som bør stå i ethvert rigtigt hjem. Ja, men nu får vi cornelia se jorden Sådan her anno 1966.
 ```
 
 #### Lee Hazlewood - Forty 
-![Alt text]()
+![Alt text](lee-hazlewood-forty.jpg)
 ```
 2019 03 06 Gæstebud med Jens Unmack Varme anbefalinger fra den dengang ene af to punks i Viborg.
 [01:30:57] Der er flere af dem, der hører under Vores berømte kategori, bør stå i ethvert ordentligt hjem. Ja, og så bliver jeg så lige pludselig halvfjerdserne, så bliver de lige præcis nå de havde spillet, så lavede han nogle skrækkelige, men du har valgt på et af mesterværkerne bare i baby og året han 69, så Jeg tror bare vi kastede os ud i det, fordi at Vi har stadigvæk noget oppe i ærmet kommer her.
 ```
 
 #### ABBA - The Visitors
-![Alt text]()
+![Alt text](abba-the-visitors.jpg)
 ```
 2019 05 21 Sange om ulykkelig kærlighed Både Billie Holiday, Frank Ocean og Hank Williams besynger tabet, længslen og smerten.
 [01:21:20] Citerer mig selv en af de plader, der bør stå i ethvert ordentligt hjem vidste tors med abba året af 1981.
 ```
 
 #### The Kinks - Face To Face 
-![Alt text]()
+![Alt text](the-kinks-face-to-face.jpg)
 ```
 2019 06 18 The Kinks (1964 - 1971) Davies er en af 60’er-rockens vigtigste og mest velformulerede sangskrivere
 [00:48:05] I din smag heller ikke, men men det hører også med til historien, at Sonja efter nogle var at finde på bandets første helstøbte album faste face som mine damer herrer bør stå i ethvert hjem med respekt for sig selv. Det er et mesterværk og det første lige præcis det jeg ville. Takke ja det første, deres fjerde album og det første hvor de har skrevet alle sangene selv, og Det er så ray Davis der har skrevet dem og også den 1 hvor den dér bløde stil, som man nok kommer til at sige med et dominerende i deres.
 ```
 
 #### The Louvin Brothers - Satan Is Real 
-![Alt text]()
+![Alt text](the-louvin-brothers-satan-is-real.jpg)
 ```
 2019 09 25 Gram Parsons En visionær syntese af rock, soul, blues og country.
 [00:35:28] Men også nogle country klassikere, simpelthen blandt andet luven brothers, som er Sådan et band, hvis man skal Sådan ret langt ned i dejen, før man hører om. Hvis man ser så countrymusik, så er det til gengæld altså også virkelig værd at stifte bekendtskab med, som du vil sige deres pladesalg burde jo stå i ethvert hjem med respekt for chatten om ikke andet bare på grund af coveret, som er helt fantastisk. Ja hvad hedder det og hvad skal det måske huske på det her tidspunkt, Der er countrymusik helt out altså II de hippe kredse og i hippie kredsene.
 ```
 
 #### Gram Parsons - GP 
-![Alt text]()
+![Alt text](gram-parsons-gp.jpg)
 ```
 2019 09 25 Gram Parsons En visionær syntese af rock, soul, blues og country.
 [01:38:31] Stod et færd hjem med respekt for sig selv. Man kan også høre altså.
 ```
 
 #### Dissing - Dissing
-![Alt text]()
+![Alt text](dissing-dissing.jpg)
 ```
 2020 05 09 Sange om forår Både Michael Stipe og Povl Dissing er inspireret af årstiden, der ofte lover mere end den kan holde.
 [01:35:48] Bør stå i ethvert hjem med respekt for sig selv, så fordi jeg fik det sagt den ikke. Her kommer dissing bitters og torup eller og Benny Holst 1969 anemone smil.
@@ -204,7 +204,9 @@ Henrik har ret.
 #### Nick Drake - Pink Moon
 #### Nick Drake - Bryter Layter
 #### Nick Drake - Five Leaves Left
-![Alt text]()
+![Alt text](nick-drake-pink-moon.jpg)
+![Alt text](nick-drake-bryter-layter.jpg)
+![Alt text](nick-drakefive-leaves-left.jpg)
 ```
 2020 05 16 Nick Drake (1948 - 1974) Et tidsløst udtryk, der aldrig mister sin relevans for følsomme sjæle
 [01:58:40] Henrik jo jeg må sende nogen ud for at få købt ja men hvad hedder det man skal starte med de 3 brødre der kom i hans levetid? Det er hovedværkerne og Det er som jeg ynder at sige her 3 bedre der bør stå i ethvert anstændigt hjem og med de ord siger vi tak for i dag håber i har nydt det lige så meget og hørte lige så meget som Vi har nydt og lave det.
