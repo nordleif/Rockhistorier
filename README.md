@@ -68,7 +68,9 @@ Fra d. 13. april 2017 til d. 06 december 2024.
 #### John Cale - Helen Of Troy 
 #### John Cale - Slow Dazzle 
 #### John Cale - Fear 
-![Alt text]()
+![Alt text](john-cale-helen-of-troy.webp)
+![Alt text](john-cale-slow-dazzle .jpg)
+![Alt text](john-cale-fear .jpg)
 ```
 2017 08 30 Geniale coverversioner - 2. del
 [00:25:46] Regulere rock han har lavet ballade og han har lavet soundtracks og nærmest klassisk musik og så videre. Og men men én af hans gyldne perioder, Det er det man kalder oven på på selskabet aylan. Dér midt i halvfjerdserne. Man har udgivet 3 plader helen of troy og slog dazzle og fer som som som er 3 plader der bør stå i ethvert hjem, hvis man spørger mig, men på den ene med den midterste af dem slog tassel.
