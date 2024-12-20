@@ -121,14 +121,14 @@ Henrik har ret.
 ```
 
 #### The Neville Brothers - Yellow Moon
-![Alt text]()
+![Alt text](the-neville-brothers-yellow-moon.jpg)
 ```
 2019 01 29 Dem vi mistede i 2018 Året hvor vi mistede både Benny Andersen og Aretha Franklin
 [00:58:52] Det er ******* smukt det her heling tjent fra hvad hedder det nabos blade ihjel om ugen? Og Det er jo endnu en af de plader som bør stå i et hvert hjem.
 ```
 
 #### Tony Joe White - Black And White 
-![Alt text]()
+![Alt text](tony-joe-white-black-and-white.jpg)
 ```
 2019 01 29 Dem vi mistede i 2018 Året hvor vi mistede både Benny Andersen og Aretha Franklin
 [01:21:05] William domain Jones, som er en ret avanceret anti racistisk sang ja så man fra fra og det debutalbum hedder Black and white. Altså for nu sker det ud i pap, og Det er i øvrigt også en af de plader der bør stå i.
@@ -137,7 +137,9 @@ Henrik har ret.
 #### This Mortal Coil - It'll End In Tears 
 #### This Mortal Coil - Blood 
 #### This Mortal Coil - Filigree & Shadow 
-![Alt text]()
+![Alt text](this-mortal-coil-it'll-end-in-tears.jpg)
+![Alt text](this-mortal-coil-blood.jpg)
+![Alt text](this-mortal-coil-filigree-&-shadow.jpg)
 ```
 2019 01 29 Dem vi mistede i 2018 Året hvor vi mistede både Benny Andersen og Aretha Franklin
 [01:34:34] Det var Det var, Det var første gang, jeg hørte det nummer her er juler, hvor jeg Sådan spidsede ører, og så står der skrevet noget under tom rap. Det var dengang man kunne læse på pladerne, hvem der havde skrevet nogle og så videre, og jeg kunne ikke gå ud og Google hvem Det var, men jeg havde heldigvis nogle ting, kan jeg stående på hylden, så kunne jeg finde ud af, at Det var han havde været med i et band, der hed følelses forsvind, og så fik jeg endnu et par plader, som bør stå i ethvert hjem.
