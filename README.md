@@ -289,16 +289,11 @@ Henrik har ret.
 
 
 
-#### 
-![Alt text]()
-```
-```
 
 
 
 
-
-
+---
 
 ##### Laura Nyro - Eli and the Thirteenth Confession
 ##### Laura Nyro - New York Tendaberry
