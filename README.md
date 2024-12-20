@@ -213,7 +213,7 @@ Henrik har ret.
 ```
 
 #### Thin Lizzy - Black Rose (A Rock Legend) 
-![Alt text]()
+![Alt text](thin-lizzyblack-rose.jpg)
 ```
 2020 05 23 Sange om og fra Irland Fra Van Morrison til Róisín Murphy
 [01:33:11] Går til de næststørste altså for mig er Det er det største, fordi jeg elsker jo sine lizzy gør jeg også og vild med fedt eller det synes han er en noget undervurderet sangskriver han solo Bladet er også ***** god ***** gode, men altså det vil sige, Der er i hvert fald 1, 4 5 np som bør stå i ethvert.
@@ -221,7 +221,7 @@ Henrik har ret.
 ```
 
 #### Propaganda - A Secret Wish
-![Alt text]()
+![Alt text](propaganda-a-secret-wish.jpg)
 ```
 2020 06 13 Synth-pop (1974 - 1985) En af popmusikkens vigtigste og mest vidtrækkende nybrud
 [01:58:37] Dine albums lade den der sikret, hvis Det er det man skal have. Ja Det er det til gengæld en rigtig god plade fra start til slut. Simpelthen Det er en en Det er en synd synes godt Albert ja Det er symphonic sendt ud endnu, og Jeg synes Det er et dejligt stort sted og stoppe med et mesterværk som vi heller ikke plejer at sige. Der bør stå i et hvert hjem med respekt for sig selv og helst faktisk boede på lrc. Det er fordi de er ret forskellige Steen der var mere plads på den og Det er som du siger Sådan symfonisk værk der har de helt endnu mere på det bliver den ikke dårligere af og så vidt jeg husker er der et cover.
@@ -229,7 +229,8 @@ Henrik har ret.
 
 #### Waylon Jennings - Singer Of Sad Songs 
 #### Waylon Jennings • Willie Nelson • Johnny Cash • Kris Kristofferson - Highwayman 
-![Alt text]()
+![Alt text](waylon-jennings-singer-of-sad-songs.jpg)
+![Alt text](waylon-jJennings-willie-nelson-johnny-cash-kris-kristofferson-highwayman.jpg)
 ```
 2020 07 04 Glemte favoritter De mange favoritkunstnere, vi ikke har spillet endnu
 [00:28:03] Men man skal. Jeg synes altså ethvert hjem, så skal jeg vel have 1 5 6.
@@ -238,20 +239,23 @@ Henrik har ret.
 #### Jimi Hendrix - Electric Ladyland
 #### Jimi Hendrix - Axis: Bold as Love
 #### Jimi Hendrix - Are You Experienced
-![Alt text]()
+![Alt text](jimi-hendrix-electric-ladyland.jpg)
+![Alt text](jimi-hendrix-axis-bold-as-love.jpg)
+![Alt text](jimi-hendrix-are-you-experienced.jpg)
 ```
 2020 10 30 Jimi Hendrix En psykedelisk rejse med hippieepokens ypperligste
 [01:19:41] Som Henrik bare at sige, den bør stå i ethvert hjem med respekt for alle de 3 eksperimenter. Altså Der er ikke noget, og de skal selvfølgelig helst stå på træk.
 ```
 
 #### The Band - The Band 
-![Alt text]()
+![Alt text](the-band-the-band.jpg)
 ```
 2021 05 07 The Band (1960-1977) Indfangede essensen af den nordamerikanske sjæl
 [01:11:02] King harvesters hurtigt komme og skal vi ikke bare springe ud i den Claus du taler for sig selv? Det er så vidt man jo så synger her. Endnu en fantastisk sang fra albummet the band, som jeg plejer at sige. Det er egentlig blevet, der skal stå i ethvert hjem. Godt Henrik, Det var også lidt på det.
 ```
 
 #### Bob Dylan - Live 1966 (The "Royal Albert Hall" Concert) 
+![Alt text](bob-dylan-live-1966.jpg)
 ```
 2021 05 14 Bob Dylans piratplader Intet er renere end Dylan og en 2 spors båndoptager på et koldt hotelværelse
 [00:30:25] Koncert stunder hjemme så kan det kun gå for langsomt ja, han skaffer. Det er Sådan den skal stå i ethvert hjem med eller uden respekt for sig selv. Sådan er det bare og og Sådan er det altså Det er én af Det er nok en af de 5 bedste lege plader nogensinde og uk Jeg har talt så ser kommer til Danmark fra 17 maj 1966 er den optaget?
