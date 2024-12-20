@@ -258,30 +258,24 @@ Henrik har ret.
 ![Alt text](bob-dylan-live-1966.jpg)
 ```
 2021 05 14 Bob Dylans piratplader Intet er renere end Dylan og en 2 spors båndoptager på et koldt hotelværelse
-[00:30:25] Koncert stunder hjemme så kan det kun gå for langsomt ja, han skaffer. Det er Sådan den skal stå i ethvert hjem med eller uden respekt for sig selv. Sådan er det bare og og Sådan er det altså Det er én af Det er nok en af de 5 bedste lege plader nogensinde og uk Jeg har talt så ser kommer til Danmark fra 17 maj 1966 er den optaget?
-```
-
-![Alt text]()
-```
-2021 05 14 Bob Dylans piratplader Intet er renere end Dylan og en 2 spors båndoptager på et koldt hotelværelse
 [00:55:59] Altså dem der har gjort en ven der hed ja lige præcis rullede joints eller hvad de nu gjorde. Ja nu sagde vi først er Volvo three og voldum 4 var helt uomgængelig i disse Google x Series. Nu er vi så nået frem til nummer 14. Den må jeg nok også med skam melde at den er man altså også nødt til at have, hvis man overhovedet vil have et hjem med respekt for sig selv. Det er den der hedder Moore, blot mor tricks som er optagelserne til hvad hedder det tricks og historien er kort, Vi har fortalt den før, men vi kan lige rekapitulere at.
 ```
 #### Bob Dylan - Side Tracks
-![Alt text]()
+![Alt text](bob-dylan-side-tracks.jpg)
 ```
 2021 05 14 Bob Dylans piratplader Intet er renere end Dylan og en 2 spors båndoptager på et koldt hotelværelse
 [01:08:23] Både af officielle udgivelser, og at Det var på en greatest hits og uofficielt har nogle live versioner af nogle ting man kendte i forvejen. Det var Sådan en og de uofficielle ting, han nu om stunder samlet på et album der hedder sejt træk som er svine godt. Det er rigtig godt. Det er jo alle de ting som kom ud, men som er kommet ud efterfølgende med ikke at få de rigtige par Dylan plade så det Det er en ja, Det er et super godt. Det er godt rigtig godt triple album, så selvfølgelig også bør stå i ethvert hjem jamen altså altså der skal altså en meter bob Det har alle mennesker for, men her kommer banen som i øvrigt også et nummer.
 ```
 
 #### Baby Huey - The Baby Huey Story - The Living Legend 
-![Alt text]()
+![Alt text](baby-huey-the-baby-huey-story.jpg)
 ```
 2021 05 28 One Album Wonders Ensomme mesterværker der lyser nattehimlen op
 [00:33:14] Ja, Det er det bør stå i ethvert hjem med respekt for sig selv, så Vi skal høre den person du udgivende ved 
 ```
 
 #### Japan - Quiet Life 
-![Alt text]()
+![Alt text](japan-quiet-life.jpg)
 ```
 2021 06 18 De bedste singler fra det herrens år 1981 Hvilke sange står tilbage nu 40 år efter
 [01:16:14] Og jeg fandt den sti, som de fleste forbinder dem med i dag, fordi Der er blevet ret anderledes. B 2 førstepladser. Altså Det var Det var glimrende eller acclaim. Ja de var jo New York dolls fanatiker, den i startede. Det kunne man godt se på det, men det kunne man faktisk høre så meget. Nej, de var ikke de 2 lige et par plader før de fandt deres sang, Det var faktisk på det album hedder kuwait live Det var det konturerne begynder at tegne Sådan det skal det skal stå i et hvert hjem respekt for sig selv, men her kommer hele derfra kroater alt.
