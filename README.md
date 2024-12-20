@@ -1,7 +1,7 @@
 ## Rockhistorier
 ### Et hvert hjem med respekt for sig selv
 
-Fra d. 13. april 2017 til d. 06 december 2024.
+Albumliste:
 
 - Marvin Gaye - What's Going On 
 - Sparks - Kimono My House 
