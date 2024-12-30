@@ -30,12 +30,12 @@ namespace Rockhistorier
                 if (imageNode != null)
                     imageUrl = imageNode?.Attributes?["href"]?.Value ?? string.Empty;
 
-                Console.WriteLine(title);
-
                 var fileNameWithoutExtension = Path.Combine(path, $"{pubDate.ToString("yyyyMMdd")} {GetLegalFileName(title)}");
 
-                if (File.Exists($"{fileNameWithoutExtension}.txt"))
+                if (File.Exists($"{fileNameWithoutExtension}.mp3"))
                     continue;
+
+                Console.WriteLine($"Downloading {title}...");
 
                 File.WriteAllText($"{fileNameWithoutExtension}.txt", description);
 
