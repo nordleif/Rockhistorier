@@ -363,7 +363,7 @@ Henrik Queitsch og Klaus Lynggaard dykker ned i, hvad de mener, er en række af 
 ```
 
 ##### David Crosby - If I Could Only Remember My Name
-![Alt text](assets/david-crosby-If-i-could-only-remember-my-name.jpg)
+![Alt text](assets/david-crosby–if-i-could-only-remember-my-name.jpg)
 ```
 2024 02 09 En krans for de døde i 2023
 01:01:06 -> 01:01:07 :  Og det er altså også en af de plader,
