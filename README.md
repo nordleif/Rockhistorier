@@ -47,6 +47,17 @@ Albumliste:
 - Baby Huey - The Baby Huey Story - The Living Legend 
 - Japan - Quiet Life 
 
+- Laura Nyro - Eli and the Thirteenth Confession
+- Laura Nyro - New York Tendaberry
+- Laura Nyro - More Than a New Discovery
+- Magazine - Real Life
+- Magazine - Secondhand Daylight
+- Magazine - The Correct Use of Soap
+- Marvin Gaye - What's Going On
+- The Rolling Stones - Between The Buttons
+- David Crosby - If I Could Only Remember My Name
+- Nancy Wilson/Cannonball Adderley - Nancy Wilson/Cannonball Adderley
+
 #### Marvin Gaye - What's Going On 
 ![Alt text](assets/assets/marvin-gaye-what's-going-on.jpg)
 ```
