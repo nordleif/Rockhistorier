@@ -1,6 +1,8 @@
 ## Rockhistorier
 ### Et hvert hjem med respekt for sig selv
 
+En fragmentarisk albumliste af Klaus Lynggaard og Henrik Queitsch. 
+
 Albumliste:
 
 - Marvin Gaye - What's Going On 
