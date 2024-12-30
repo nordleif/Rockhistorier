@@ -62,7 +62,7 @@ Albumliste:
 #### Marvin Gaye - What's Going On 
 ![Alt text](assets/marvin-gaye-what's-going-on.jpg)
 > 2017 05 10 Motown (1959 - 1971) Et musikalsk powerhouse der skabte hits på samlebånd
-  [01:59:54] Så Der er helt lang række mange gæs i spil her, som synger til og mod hinanden og og Det er Det er virkelig mesterligt. Det er ikke kun en mesterlig sang, Det er også en mesterlig produktion. Det må man sige og en mesterlig plade i det hele taget. Den den bør stå i ethvert hjem. Ja vi slutter på toppen med marvin gaye og.
+> [01:59:54] Så Der er helt lang række mange gæs i spil her, som synger til og mod hinanden og og Det er Det er virkelig mesterligt. Det er ikke kun en mesterlig sang, Det er også en mesterlig produktion. Det må man sige og en mesterlig plade i det hele taget. Den den bør stå i ethvert hjem. Ja vi slutter på toppen med marvin gaye og.
 
 #### Sparks - Kimono My House 
 #### Sparks - A Woofer In Tweeter's Clothing
