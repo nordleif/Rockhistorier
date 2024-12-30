@@ -316,10 +316,12 @@ Henrik Queitsch og Klaus Lynggaard dykker ned i, hvad de mener, er en række af 
 - fra podcast beskrivelsen
 ```
 
-
-
-
-#####
+##### Magazine - Real Life
+##### Magazine - Secondhand Daylight
+##### Magazine - The Correct Use of Soap
+![Alt text](assets/magazine-real-life.jpg)
+![Alt text](assets/magazine-secondhand-daylight.jpg)
+![Alt text](assets/magazine-the-correct-use-of-soap.jpg)
 ```
 2023 08 18 Siouxsie & the Banshees Hun skabte en ny punklyd og blev et stilikon for hele goth-bølgen.mp3
 00:37:54 -> 00:37:55 :  De tre første magazineplader
@@ -330,8 +332,6 @@ Henrik Queitsch og Klaus Lynggaard dykker ned i, hvad de mener, er en række af 
 00:37:59 -> 00:37:59 :  Simpelthen
 00:37:59 -> 00:37:59 :  Sådan er det
 ```
-
-
 
 ##### Marvin Gaye - What's Going On
 ![Alt text](assets/marvin-gaye-what's-going-on.jpg)
