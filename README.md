@@ -3,7 +3,7 @@
 
 En fragmentarisk albumliste af Klaus Lynggaard og Henrik Queitsch. 
 
-Kunstig inteligens har lyttet med og fundet alle steder, hvor vores musikkuratorer nævner 'I et hvert hjem med respekt for sig selv'.
+AI'en har fanget alle de øjeblikke, hvor vores musikkuratorer dropper linjen: 'I ethvert hjem med respekt for sig selv'.
 
 Albumliste:
 
