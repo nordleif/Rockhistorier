@@ -1,5 +1,5 @@
 ## Rockhistorier
-### Et hvert hjem med respekt for sig selv
+### I et hvert hjem med respekt for sig selv
 
 En fragmentarisk albumliste af Klaus Lynggaard og Henrik Queitsch. 
 
