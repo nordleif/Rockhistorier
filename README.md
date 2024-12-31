@@ -47,7 +47,6 @@ Albumliste:
 - Bob Dylan - Live 1966 (The "Royal Albert Hall" Concert) 
 - Bob Dylan - More Blood, More Tracks (The Bootleg Series Vol. 14)
 - Bob Dylan - Side Tracks
-- Bob Dylan - More Blood, More Tracks (The Bootleg Series Vol. 14)
 - Baby Huey - The Baby Huey Story - The Living Legend 
 - Japan - Quiet Life
 - Laura Nyro - Eli and the Thirteenth Confession
@@ -219,7 +218,9 @@ Albumliste:
   [01:11:02] King harvesters hurtigt komme og skal vi ikke bare springe ud i den Claus du taler for sig selv? Det er så vidt man jo så synger her. Endnu en fantastisk sang fra albummet the band, som jeg plejer at sige. Det er egentlig blevet, der skal stå i ethvert hjem. Godt Henrik, Det var også lidt på det.
 
 #### Bob Dylan - Live 1966 (The "Royal Albert Hall" Concert) 
+#### Bob Dylan - More Blood, More Tracks (The Bootleg Series Vol. 14)
 ![Alt text](assets/bob-dylan-live-1966.jpg)
+![Alt text](assets/bob-dylan-more-blood-more-tracks.jpg)
 > 2021 05 14 Bob Dylans piratplader Intet er renere end Dylan og en 2 spors båndoptager på et koldt hotelværelse  
   [00:55:59] Altså dem der har gjort en ven der hed ja lige præcis rullede joints eller hvad de nu gjorde. Ja nu sagde vi først er Volvo three og voldum 4 var helt uomgængelig i disse Google x Series. Nu er vi så nået frem til nummer 14. Den må jeg nok også med skam melde at den er man altså også nødt til at have, hvis man overhovedet vil have et hjem med respekt for sig selv. Det er den der hedder Moore, blot mor tricks som er optagelserne til hvad hedder det tricks og historien er kort, Vi har fortalt den før, men vi kan lige rekapitulere at.
 
