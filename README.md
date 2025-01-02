@@ -49,6 +49,7 @@ Albumliste:
 - Bob Dylan - Side Tracks
 - Baby Huey - The Baby Huey Story - The Living Legend 
 - Japan - Quiet Life
+- Nancy Sinatra and Lee Hazlewood- Nancy & Lee
 - Laura Nyro - Eli and the Thirteenth Confession
 - Laura Nyro - New York Tendaberry
 - Laura Nyro - More Than a New Discovery
@@ -243,12 +244,19 @@ Albumliste:
 
 
 
-
 ---
 
 
 
 
+##### Nancy Sinatra and Lee Hazlewood- Nancy & Lee
+![Alt text](assets/nancy-sinatra-and-lee-hazlewood-nancy-&-lee.jpg)
+> 2022 04 08 Favorit duetter Fra Bing Crosby og Frank Sinatra til Jay-Z og Alicia Keys.mp3  
+  00:30:57 -> 00:30:58 :  En af de plader  
+  00:30:58 -> 00:30:59 :  Som skal stå i et værd hjem  
+  00:30:59 -> 00:31:00 :  Med respekt for sig selv  
+  00:31:00 -> 00:31:01 :  Og det mener vi  
+  00:31:01 -> 00:31:02 :  Vi kommer og tjekker  
 
 ##### Laura Nyro - Eli and the Thirteenth Confession
 ##### Laura Nyro - New York Tendaberry
