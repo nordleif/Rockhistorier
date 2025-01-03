@@ -1,7 +1,3 @@
-plugins:
-  - jekyll-toc
-
-toc:
-  min_level: 4
-  max_level: 4
-  
+title: My GitHub Pages
+description: Welcome to my site!
+theme: minima
