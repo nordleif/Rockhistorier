@@ -5,7 +5,7 @@ En fragmentarisk albumliste af Klaus Lynggaard og Henrik Queitsch.
 
 *Kunstig intelligens har fanget alle øjeblikke, hvor vores musikkuratorer nævner: 'I ethvert hjem med respekt for sig selv'.*
 
-## Table of Contents
+* TOC
 {:toc}
 
 Albumliste:
