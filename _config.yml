@@ -1,0 +1,7 @@
+plugins:
+  - jekyll-toc
+
+toc:
+  min_level: 4
+  max_level: 4
+  
