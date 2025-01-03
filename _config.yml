@@ -3,3 +3,7 @@ title: Rockhistorier
 markdown: kramdown
 kramdown:
    parse_block_html: true
+
+toc:
+  min_level: 4
+  max_level: 4

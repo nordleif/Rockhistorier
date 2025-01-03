@@ -252,7 +252,7 @@ Albumliste:
 
 
 
-##### Nancy Sinatra and Lee Hazlewood- Nancy & Lee
+#### Nancy Sinatra and Lee Hazlewood- Nancy & Lee
 ![Alt text](assets/nancy-sinatra-and-lee-hazlewood-nancy-&-lee.jpg)
 > 2022 04 08 Favorit duetter Fra Bing Crosby og Frank Sinatra til Jay-Z og Alicia Keys  
   00:30:57 -> 00:30:58 :  En af de plader  
@@ -261,9 +261,9 @@ Albumliste:
   00:31:00 -> 00:31:01 :  Og det mener vi  
   00:31:01 -> 00:31:02 :  Vi kommer og tjekker  
 
-##### Laura Nyro - Eli and the Thirteenth Confession
-##### Laura Nyro - New York Tendaberry
-##### Laura Nyro - More Than a New Discovery
+#### Laura Nyro - Eli and the Thirteenth Confession
+#### Laura Nyro - New York Tendaberry
+#### Laura Nyro - More Than a New Discovery
 ![Alt text](assets/laura-nyro-eli-and-the-thirteenth-confession.jpg)
 ![Alt text](assets/laura-nyro-new-work-tendaberry.jpg)
 ![Alt text](assets/laura-nyro-more-than-a-new-discovery.webp)
@@ -271,11 +271,10 @@ Albumliste:
   Henrik Queitsch og Klaus Lynggaard dykker ned i, hvad de mener, er en række af mesterværker med albums som ’Eli and the Thirteenth Confession’,   
   ’New York Tendaberry’ og ’More Than a New Discovery’ - som bør stå i et hvert hjem med respekt for sig selv.  
   - fra podcast beskrivelsen  
-```
 
-##### Magazine - Real Life
-##### Magazine - Secondhand Daylight
-##### Magazine - The Correct Use of Soap
+#### Magazine - Real Life
+#### Magazine - Secondhand Daylight
+#### Magazine - The Correct Use of Soap
 ![Alt text](assets/magazine-real-life.jpg)
 ![Alt text](assets/magazine-secondhand-daylight.jpg)
 ![Alt text](assets/magazine-the-correct-use-of-soap.jpg)
@@ -288,7 +287,7 @@ Albumliste:
   00:37:59 -> 00:37:59 :  Simpelthen  
   00:37:59 -> 00:37:59 :  Sådan er det  
 
-##### Marvin Gaye - What's Going On
+#### Marvin Gaye - What's Going On
 ![Alt text](assets/marvin-gaye-what's-going-on.jpg)
 > 2023 10 27 Sange om klimakrisen  
   00:18:11 -> 00:18:32 :  Yeah, nu skal vi så til en af soulmusikkens store, endnu en som også døde alt for tidligt,  
@@ -300,7 +299,7 @@ Albumliste:
   00:18:47 -> 00:18:48 :  Sådan er det bare.  
   00:18:48 -> 00:18:53 :  Og det var hans første plade, hvor han ligesom selv får lov at bestemme det hele.  
 
-##### The Rolling Stones - Between The Buttons
+#### The Rolling Stones - Between The Buttons
 ![Alt text](assets/the-rolling-stones-between-the-buttons.jpg)
 > 2023 12 15 The Rolling Stones Brian Jones-æraen  
   01:40:38 -> 01:40:41 :  Og den har sådan sin egen stille charme, kan man sige  
@@ -313,7 +312,7 @@ Albumliste:
   01:40:53 -> 01:40:55 :  Something happened to me yesterday  
   01:40:55 -> 01:40:57 :  Hvor Kies han tegnede sin første  
 
-##### David Crosby - If I Could Only Remember My Name
+#### David Crosby - If I Could Only Remember My Name
 ![Alt text](assets/david-crosby–if-i-could-only-remember-my-name.jpg)
 > 2024 02 09 En krans for de døde i 2023  
   01:01:06 -> 01:01:07 :  Og det er altså også en af de plader,  
@@ -328,7 +327,7 @@ Albumliste:
   01:01:18 -> 01:01:20 :  The Malpas High at About Three,  
   01:01:20 -> 01:01:21 :  hvad det så skal betyde.
 
-##### Nancy Wilson/Cannonball Adderley - Nancy Wilson/Cannonball Adderley
+#### Nancy Wilson/Cannonball Adderley - Nancy Wilson/Cannonball Adderley
 ![Alt text](assets/nancy-wilson-cannonball-adderley-nancy-wilson-cannonball-adderley.jpg)
 > 2024 06 28 Gæstebud med Anna Roemer Riffs for alle pengene  
   00:57:49 -> 00:57:53 :  Hvis man har LP'en, er der jo på side 1, er det kun hende og ham.  
