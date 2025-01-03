@@ -1,8 +1,8 @@
 title: Rockhistorier
+description: I et hvert hjem med respekt for sig selv
+# theme: minima
 
 markdown: kramdown
-kramdown:
-   parse_block_html: true
 
 toc:
   min_level: 4
