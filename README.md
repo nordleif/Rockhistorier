@@ -5,64 +5,10 @@ En fragmentarisk albumliste af Klaus Lynggaard og Henrik Queitsch.
 
 *Kunstig intelligens har fanget alle øjeblikke, hvor vores musikkuratorer nævner: 'I ethvert hjem med respekt for sig selv'.*
 
-* TOC
-{:toc}
-
 Albumliste:
 
-- Marvin Gaye - What's Going On 
-- Sparks - Kimono My House 
-- Sparks - A Woofer In Tweeter's Clothing
-- Sparks - Sparks
-- John Cale - Helen Of Troy 
-- John Cale - Slow Dazzle 
-- John Cale - Fear 
-- Bob Marley & The Wailers - Exodus
-- Pretty Things - S.F. Sorrow 
-- Elvis Presley - From Elvis In Memphis 
-- Elvis - Back In Memphis 
-- Frank Sinatra - Frank Sinatra Sings For Only The Lonely
-- Nancy Wilson/Cannonball Adderley - Nancy Wilson/Cannonball Adderley
-- The Neville Brothers - Yellow Moon
-- Tony Joe White - Black And White 
-- This Mortal Coil - It'll End In Tears 
-- This Mortal Coil - Blood 
-- This Mortal Coil - Filigree & Shadow 
-- Serge Gainsbourg - Histoire de Melody Nelson
-- Jan Johansson - Jazz På Svenska 
-- Lee Hazlewood - Forty 
-- ABBA - The Visitors
-- The Kinks - Face To Face 
-- The Louvin Brothers - Satan Is Real 
-- Gram Parsons - GP 
-- Dissing - Dissing
-- Nick Drake - Pink Moon
-- Nick Drake - Bryter Layter
-- Nick Drake - Five Leaves Left
-- Thin Lizzy - Black Rose (A Rock Legend) 
-- Propaganda - A Secret Wish
-- Waylon Jennings - Singer Of Sad Songs 
-- Waylon Jennings • Willie Nelson • Johnny Cash • Kris Kristofferson - Highwayman 
-- Jimi Hendrix - Electric Ladyland
-- Jimi Hendrix - Axis: Bold as Love
-- Jimi Hendrix - Are You Experienced
-- The Band - The Band 
-- Bob Dylan - Live 1966 (The "Royal Albert Hall" Concert) 
-- Bob Dylan - More Blood, More Tracks (The Bootleg Series Vol. 14)
-- Bob Dylan - Side Tracks
-- Baby Huey - The Baby Huey Story - The Living Legend 
-- Japan - Quiet Life
-- Nancy Sinatra and Lee Hazlewood- Nancy & Lee
-- Laura Nyro - Eli and the Thirteenth Confession
-- Laura Nyro - New York Tendaberry
-- Laura Nyro - More Than a New Discovery
-- Magazine - Real Life
-- Magazine - Secondhand Daylight
-- Magazine - The Correct Use of Soap
-- Marvin Gaye - What's Going On
-- The Rolling Stones - Between The Buttons
-- David Crosby - If I Could Only Remember My Name
-- Nancy Wilson/Cannonball Adderley - Nancy Wilson/Cannonball Adderley
+* TOC
+{:toc}
 
 #### Marvin Gaye - What's Going On
 ![Alt text](assets/marvin-gaye-what's-going-on.jpg)
