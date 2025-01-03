@@ -1,10 +1,4 @@
-title: Rockhistorier
-description: I et hvert hjem med respekt for sig selv
-theme: midnight
-
 markdown: kramdown
-
 kramdown:
   toc_levels: 4..4
-
 toc: true
